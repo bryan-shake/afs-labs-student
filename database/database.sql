@@ -21,6 +21,7 @@ SET row_security = off;
 --
 
 
+
 CREATE EXTENSION IF NOT EXISTS plpgsql WITH SCHEMA pg_catalog;
 
 
